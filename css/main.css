@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(255, 255, 255)
+    background-size: cover;
+    background-image: url(../images/gamer-498-x-280-gif-79jk9s8f3eka1y0l.gif);
 }
 
 main {
@@ -12,10 +13,11 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 35px;
     margin-left: 5%;
-    color: dodgerblue
+    color: white
 }
 
 p {
+    color: aliceblue;
     font-family: Arial, Helvetica, sans-serif;
 }
 
